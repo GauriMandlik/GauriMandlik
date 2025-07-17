@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning AI & Ml
+I'm currently learning AI & ML
 
 
 ## 🌐 Socials:
